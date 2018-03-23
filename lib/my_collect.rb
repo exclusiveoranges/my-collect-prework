@@ -4,5 +4,5 @@ new_array = while i < array.length
     yield array[i]
     i += 1
   end
-array
+new_array
 end
